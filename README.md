@@ -27,7 +27,7 @@
 为了确保能够正常使用，请**仔细**阅读安装须知。
 
 1. 将 Release 渠道下的 `ink.wsm.mirai.audio_transcoding.plugin.zip` 压缩包文件解压至 `<你的 Mirai 根目录>\config\` 目录下。
-2. 根据你设备的系统安装 ffmpeg 服务 (https://ffmpeg.org/)。
+2. 根据你设备的系统安装 ffmpeg 服务 ( https://ffmpeg.org/ )。
 3. （可选）将 `general.yml` 配置文件的配置数据进行自由修改。
 4. 将应用本体文件放入 `<你的 Mirai 根目录>\plugins\` 目录下并重启 Mirai 即可使用。
 
